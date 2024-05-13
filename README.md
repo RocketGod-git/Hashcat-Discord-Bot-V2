@@ -11,7 +11,7 @@ Harness the power of Hashcat directly from Discord. Crack hashes with ease and e
          \/              \/      \/     \/               \/              \/  
 ```
 
-# WORK IN PROGRESS
+# THIS IS A WORK IN PROGRESS
 
 ## Wordlists
 
